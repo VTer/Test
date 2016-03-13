@@ -8,5 +8,4 @@ VT
 
 tester
 
-
-develop QA features
+develop master feature
